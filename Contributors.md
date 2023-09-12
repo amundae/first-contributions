@@ -147,6 +147,7 @@ PRAJOT
 - [Sharanabasava] (https://github.com/Sharan-14)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
+- [Lokeshkumar Nagure](https://github.com/lokinagure)
 - [Dessamine Almuete](https://github.com/dalmuete)
 - [Jyra Villanueva](https://github.com/Jyra-Villanueva)
 - [Lance Jericho Salcedo](https://github.com/jausalcedo)
@@ -2100,3 +2101,4 @@ Akash Abraham
 - [Sandeep Kumar Sharma](https://github.com/amrahs02)
 - [Aishwarya Sahu](https://github.com/ashesash)
 - [Joey Santos] (https://github.com/Santeezy7).
+- [Affen_Herzog](https://github.com/AffenHerzog)
